@@ -1,0 +1,1 @@
+alert("Tweet (without having to manually type) anything and everything you see on the Web.\nSelect a bunch of text, an image, a link, or a page, and right click!");
